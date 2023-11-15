@@ -1,1 +1,1 @@
-# dkdkd
+#!/bin/sh
